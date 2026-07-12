@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PeKeys Store
 
 Proyecto full-stack unificado en una sola carpeta. El frontend vive en React + Vite, el backend en Express, y ahora el servidor también está preparado para conectarse a PostgreSQL siguiendo la guía de Azure.
@@ -111,3 +112,6 @@ https://TU-DOMINIO.azurewebsites.net/api/health
 ```
 
 Si todo está bien, el endpoint debe responder con `status: ok` y `storage: postgres`.
+=======
+# Grupo10proweb
+>>>>>>> 30eb09961d190b274c78d960f52b7bad26a58639
